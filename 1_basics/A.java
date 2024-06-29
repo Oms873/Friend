@@ -1,0 +1,1 @@
+// an empty file, thus no output created after complation and no error will be generated
